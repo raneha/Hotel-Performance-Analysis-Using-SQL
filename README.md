@@ -21,17 +21,17 @@ This repository contains a SQL-based analysis of hotel booking data focused on u
 ## Analysis Preview
 
 ### 1️⃣ Booking & Revenue Overview
-![Booking Overview](booking_overview.png)
+![Booking Overview](images/booking_overview.png)
 
 This analysis focuses on total bookings, booking status distribution, cancellation rate, and overall revenue performance.
 
 ### 2️⃣ Time-Based Trends
-![Revenue Trends](revenue_trends.png)
+![Revenue Trends](images/revenue_trends.png)
 
 This section highlights daily and weekly trends in bookings, revenue, and occupancy.
 
 ### 3️⃣ Occupancy & Property Performance
-![Occupancy Analysis](occupancy_analysis.png)
+![Occupancy Analysis](images/occupancy_analysis.png)
 
 This analysis evaluates occupancy percentage, utilized capacity, and performance across cities, properties, and room categories.
 
